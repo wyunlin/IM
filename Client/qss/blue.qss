@@ -1,0 +1,35 @@
+QWidget{
+    background-color:#1E90FF;
+}
+
+QPushButton{
+    font-size: 12pt;
+    background-color:#F5F5F5;
+    border:1px solid #C0C0C0;
+}
+QPushButton:hover{
+    background-color:#1E90FF;
+    color:#FFFFFF;
+    border:none;
+}
+QPushButton:pressed{
+    background-color:#1E90FF;
+    color:#FFFFFF;
+    border:none;
+}
+
+#btnSend{
+    font-size: 12pt;
+    background-color:#F5F5F5;
+    border:1px solid #C0C0C0;
+}
+#btnSend:hover{
+    background-color:#1E90FF;
+    color:#FFFFFF;
+    border:none;
+}
+#btnSend:pressed{
+    background-color:#1E90FF;
+    color:#FFFFFF;
+    border:none;
+}
